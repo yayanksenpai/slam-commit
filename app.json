@@ -119,7 +119,7 @@
         "required": false
       },
       "ACCOUNTS_ZIP_URL": {
-        "description": "(Optional) If you want to load your service accs externally from a link, archive your service accs json files to a zip file directly (don't archive the folder, select all the jsons and zip them), then fill this with the direct link of that file (index link is recommended).",
+        "description": "(Optional) If you want to load your service accs externally from a link, archive your service accs json files to a zip file directly (don't archive the folder. Select all the jsons and zip them, name the zip file whatever you want, it doesn't matter), then fill this with the direct link of that file (index link is recommended).",
         "required": false
       },
       "STOP_DUPLICATE_MIRROR": {
